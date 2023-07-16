@@ -11,3 +11,4 @@ Everything below this paragraph is a scratch area for making changes and commits
 
 - The submodule repository was created
 - A change was added in the submodule repository to test pulling changes from the submodule directory
+- Another change was made to test if pulling twice in a row breaks (submodule is no longer tracking?)
