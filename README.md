@@ -9,4 +9,5 @@ Everything below this paragraph is a scratch area for making changes and commits
 
 ---
 
-1. The submodule repository was created
+- The submodule repository was created
+- A change was added in the submodule repository to test pulling changes from the submodule directory
